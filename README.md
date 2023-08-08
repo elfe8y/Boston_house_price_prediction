@@ -9,10 +9,17 @@ Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 at
 <h1>Important Steps:</h1>
 
 Importing the related library
+
 Loading the dataset
+
 Preprocessing dataset (data cleaning)
+
 Exploring data (Exploratory Data Analysis)
+
 Split the dataset
+
 Correlation matrix
+
 Model training
+
 Model Evaluation
